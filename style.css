@@ -1,0 +1,25 @@
+header {
+	background-color: #DDDDDD; 
+}
+
+footer {
+	background-color: #00FFFF;
+}
+
+ul {
+	color: blue;
+	background-color: yellow;
+}
+
+body p {
+	color: tomato;
+}
+
+ul li {
+	color: red;
+}
+
+.centered {
+	margin: 0 auto;
+	width: 400px;
+}
